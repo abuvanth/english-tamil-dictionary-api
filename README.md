@@ -7,6 +7,8 @@ git clone https://github.com/abuvanth/tamil-dictionary-api.git
 
 cd tamil-dictionary-api
 
+pip install flask 
+
 python eng-tamil-dic.py
 
 open browser then put following
