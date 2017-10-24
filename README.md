@@ -5,7 +5,7 @@ Usage:
 
 git clone https://github.com/abuvanth/tamil-dictionary-api.git
 
-cd tamil-dictionary-api
+cd english-tamil-dictionary-api
 
 pip install flask 
 
